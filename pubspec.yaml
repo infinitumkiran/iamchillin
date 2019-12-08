@@ -28,8 +28,10 @@ dependencies:
   bloc_pattern: ^2.3.2
 
 dev_dependencies:
+
   flutter_test:
     sdk: flutter
+
 
 
 
@@ -52,6 +54,9 @@ flutter:
     - images/rainy.jpg
     - images/snow.jpg
     - images/rainy.png
+    - images/sunny.jpeg
+    - images/sunny.png
+    - images/location.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
